@@ -1,0 +1,15 @@
+Comandos CMD
+
+Apagar cualquier ordenador de red: (Requiere IP) 
+shutdown -i
+
+Extraer IP de red: (Complementario)
+arp -a
+
+Annotate and aunexpected shutdown - poner mensaje
+
+Mostrar
+msg * mensaje que quieras que se muestre
+
+Cambiar contraseña: 
+net user administrator contraseñanueva1234

@@ -1,0 +1,14 @@
+CONTRATO DE LICENCIA DE SOFTWARE DE CÓDIGO VISIBLE - PROPIETARIO
+
+Copyright (c) 2026. Todos los derechos reservados.
+
+Por la presente se concede permiso a cualquier persona que obtenga una copia de este software únicamente para visualizar, inspeccionar y estudiar el código fuente de forma pública en este repositorio.
+
+QUEDA TERMINANTEMENTE PROHIBIDO:
+1. Modificar, alterar, actualizar o crear obras derivadas de este código fuente.
+2. Eliminar, bypassar o alterar los mecanismos de salida de emergencia del software (específicamente el apagado forzado mediante la tecla 'SHIFT').
+3. Distribuir, sublicenciar y/o vender copias del software modificado.
+
+CUALQUIER MODIFICACIÓN NO AUTORIZADA QUE DESTRUYA EL MECANISMO DE CIERRE POR HARDWARE ('SHIFT') ANULARÁ AUTOMÁTICAMENTE SUS DERECHOS DE USO Y SERÁ CONSIDERADA UNA VIOLACIÓN DIRECTA DE LOS DERECHOS DE AUTOR.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO. EL AUTOR NO SE HACE RESPONSABLE DE NINGÚN DAÑO O RECLAMACIÓN DERIVADA DEL USO DE ESTAS HERRAMIENTAS.
